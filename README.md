@@ -6,7 +6,7 @@
 - **Instructor:** MSc. Do Thi Minh Phung
 - **Team Members:**
   - Dinh Van Lam - 23520829
-  - Dang Nguyen Hoang Thach - 23521411
+  - - Project Collaborator
 
 ## 🎯 Project Objectives
 Fraud in loan applications and financial transactions is a major risk for credit institutions. This project focuses on researching and designing a Data Warehouse using ETL processes, multi-dimensional data analysis (OLAP), data visualization via Dashboards, and Data Mining algorithms to assist in the early detection of financial fraud.
